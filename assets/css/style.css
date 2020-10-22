@@ -24,4 +24,5 @@ main {
 div {
     margin-top: auto;
     background-color: blue;
+    border-top: 0cm;
 }
