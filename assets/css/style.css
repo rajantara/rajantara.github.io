@@ -15,6 +15,7 @@ header .banner-text {
     width: 100%;
 }
 
+/* bagian ke 2 */
 main {
     margin: auto;
     background-color: rgb(54, 30, 189);
@@ -31,4 +32,12 @@ div {
     background-color: blue;
     border-top: 0cm;
 
+}
+
+/* bagian ke 3 */
+
+thead {
+    caption-side: bottom;
+    text-overflow: clip;
+    border-style: solid;
 }
