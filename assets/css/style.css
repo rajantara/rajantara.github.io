@@ -21,8 +21,14 @@ main {
     padding: 0%;
 }
 
+textarea.dashed {
+    border-style: dashed;
+}
+
 div {
     margin-top: auto;
+    text-align: center; /* for tengah text*/
     background-color: blue;
     border-top: 0cm;
+
 }
