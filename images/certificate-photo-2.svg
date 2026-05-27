@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="40" fill="url(#bg2)" />
+  <rect x="60" y="60" width="1080" height="780" rx="32" fill="#fff" />
+  <text x="600" y="320" text-anchor="middle" font-family="Inter, sans-serif" font-size="72" fill="#111827">Sertifikat</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Inter, sans-serif" font-size="42" fill="#475569">Certified JavaScript Developer</text>
+  <text x="600" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="28" fill="#6b7280">Modern JavaScript dan DOM dynamic interface</text>
+</svg>
